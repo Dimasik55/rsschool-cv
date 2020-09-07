@@ -1,16 +1,15 @@
 ## 1. First Name, Last Name (real ones)
-  > Dmitry  Burovtsev
+  > Dmitry  Burovtsev.
 ## 2. Contact Info (add several ways to contact you)
-   > E-mail: burovtsev0055@gmail.com
-   > Discord: Dmitry Burovtsev
+   > E-mail: burovtsev0055@gmail.com.
+   > Discord: Dmitry Burovtsev.
 ## 3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-
+   >Former ice hockey player who wants to learn a programming language.
 ## 4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
+   >I have no knowledge, I have basic knowledge of HTML, CSS.
 ## 5. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-  > freelance projects - wherever they had the opportunity to demonstrate skills they have.
-  > Also it would be awesome if you add links to source code)
+  >This is my first course experience.
 ## 6. Education (including courses, seminars, lectures, online learning)
+  >I study at BNTU, I switched to 5 course.
 ## 7. English (elaborate on what kind of practice you had, if any, how long it lasted and so on) 
   > A2 level
